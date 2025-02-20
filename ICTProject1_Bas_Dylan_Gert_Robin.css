@@ -1,3 +1,5 @@
 body {
     background-image: url(images/html.png);
 }
+
+h1 {font-family: Verdana, Geneva, Tahoma, sans-serif; font-weight: bold; color: lightskyblue;}
