@@ -1,7 +1,8 @@
 body {
   margin: 0;
   font-family: "Segoe UI", sans-serif;
-  background-image: url("/images/achtergrond.avif");
+  /* Should be placed on the pages itself */
+  /* background-image: url("/images/achtergrond.avif"); */
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
