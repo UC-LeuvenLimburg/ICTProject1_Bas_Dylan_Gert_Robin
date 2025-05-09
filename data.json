@@ -1,0 +1,53 @@
+{
+  "studiekaarten": [
+    {
+      "id": "5",
+      "name": "leerkracht secundair onderwijs",
+      "description": "Deze professionele bacheloropleiding bereidt je voor op een carrière als leraar in het secundair onderwijs. Je ontwikkelt zowel inhoudelijke expertise in twee onderwijsvakken naar keuze als pedagogische en didactische vaardigheden om jongeren te inspireren en te begeleiden.",
+      "features": [
+        "Keuze uit 23 onderwijsvakken: Je stelt je opleiding samen door twee vakken te kiezen uit een aanbod van 23, waardoor je je kunt specialiseren in de vakken die jou het meest aanspreken.",
+        "Sterke focus op praktijkervaring: Vanaf het eerste jaar loop je stage, beginnend met ongeveer 10% van je tijd, oplopend tot 50% in het laatste jaar. Je observeert lessen, oefent met lesgeven en ontwikkelt je eigen lesstijl.",
+        "Persoonlijke begeleiding en coaching: Je krijgt ondersteuning van lectoren en een persoonlijke studentencoach die je begeleiden bij je studiekeuzes, studievaardigheden en eventuele uitdagingen."
+      ],
+      "color": "#FFD700",
+      "colorName": "gold",
+      "qr": ""
+    },
+    {
+      "id": "6",
+      "name": "leerkracht kleuter onderwijs",
+      "description": "De opleiding is thematisch en modulair opgebouwd, waarbij elk opleidingsjaar bestaat uit verschillende modules met specifieke thema's. Deze modules integreren verschillende vakgebieden en zijn gericht op het ontwikkelen van de nodige competenties om als kleuterleraar aan de slag te gaan. De stage speelt een centrale rol in de opleiding en wordt beschouwd als de motor van het leerproces. In het eerste jaar wordt bijvoorbeeld 10 studiepunten aan stage toegekend, waarbij studenten praktijkervaring opdoen in kleuterklassen.",
+      "features": [
+        "Modulaire opbouw: De opleiding is opgebouwd uit thematische modules die verschillende ontwikkelingsdomeinen van kleuters integreren. Dit bevordert een holistische benadering van het kleuteronderwijs.",
+        "Stage als leerinstrument: Vanaf het eerste jaar wordt veel nadruk gelegd op praktijkervaring. De stage is geïntegreerd in elke module en biedt studenten de mogelijkheid om theorie direct toe te passen in de praktijk.",
+        " Persoonlijke begeleiding: Studenten worden begeleid door mentoren en lectoren die ondersteuning bieden tijdens de stages en het leerproces. Dit zorgt voor een persoonlijke en professionele groei gedurende de opleiding."
+      ],
+
+      "color": "#2913AF",
+      "colorName": "blue gem",
+      "qr": ""
+    }
+  ],
+  "stellingskaarten": [
+    {
+      "text": "Activerende werkvormen stimuleren het kritisch denken en probleemoplossend vermogen van leerlingen",
+      "studiekaart_id": "5"
+    },
+    {
+      "text": "Deze onderwijsvorm, vaak gebruikt in STEM-vakken, moedigt experimenteren en kritisch denken aan.",
+      "studiekaart_id": "5"
+    }
+  ],
+  "objectkaarten": [
+    {
+      "image": "",
+      "description": "Smartschool",
+      "studiekaart_id": "5"
+    },
+    {
+      "image": "",
+      "description": "GeoGebra",
+      "studiekaart_id": "5"
+    }
+  ]
+}
