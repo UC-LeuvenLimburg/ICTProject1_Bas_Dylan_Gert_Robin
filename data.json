@@ -1,6 +1,58 @@
 {
   "studiekaarten": [
     {
+      "id": "0",
+      "name": "Graduaat Internet of Things",
+      "description": "Het graduaat Internet of Things (IoT) is een tweejarige praktijkgerichte opleiding (120 studiepunten) die je opleidt tot IoT-technicus. Je leert slimme apparaten en systemen ontwerpen, bouwen en beheren, waarbij je zowel hardware als software integreert.",
+      "features": [
+        "Multidisciplinaire opleiding: Deze opleiding combineert elektronica, netwerken en programmeren. Je leert zowel hardware (zoals sensoren en microcontrollers) als software (zoals embedded systemen en netwerktechnologieën) integreren tot slimme, verbonden toepassingen. Er wordt gewerkt met technologieën zoals LoRaWAN, NB-IoT en Sigfox.",
+        "Sterk praktijkgericht met werkplekleren: De opleiding legt de nadruk op hands-on ervaring. Via werkplekleren en stages pas je je kennis toe in realistische omgevingen, zoals domotica-installaties, industriële automatisering of smart buildings. Dit bereidt je voor op een directe instap in de arbeidsmarkt.",
+        "Toegankelijk voor diverse achtergronden: Voorkennis in IT of elektronica is niet vereist. Met motivatie en inzet kun je starten, zelfs zonder technische vooropleiding. De opleiding is beschikbaar in een tweejarig dagtraject of een driejarig avondtraject, wat flexibiliteit biedt voor verschillende levenssituaties."
+      ],
+      "color": "#800080",
+      "colorName": "purple",
+      "qr": ""
+    },
+    {
+      "id": "1",
+      "name": "Graduaat HVAC-Systemen",
+      "description": "Het graduaat HVAC-systemen aan UCLL Campus Diepenbeek is een tweejarige praktijkgerichte opleiding (120 studiepunten) die je opleidt tot een veelzijdige technicus in verwarmings-, ventilatie- en airconditioningsystemen. Je leert installaties plaatsen, onderhouden, storingen opsporen en slimme klimaatsystemen beheren in zowel residentiële als industriële omgevingen.",
+      "features": [
+        "Slimme en duurzame technieken: De opleiding integreert domotica en gebouwbeheersystemen en zet sterk in op energie-efficiëntie en milieuvriendelijke oplossingen.",
+        "Veiligheid en regelgeving: Er is veel aandacht voor veilig werken, inclusief het omgaan met gevaarlijke stoffen zoals koelmiddelen en het volgen van wettelijke normen.",
+        "Installatie en onderhoud: Je leert HVAC-systemen installeren en onderhouden, inclusief het opsporen en verhelpen van storingen."
+      ],
+      "color": "a52a2a",
+      "colorName": "brown",
+      "qr": ""
+    },
+    {
+      "id": "2",
+      "name": "Graduaat Hernieuwbare Energiesystemen",
+      "description": "Het graduaat Hernieuwbare Energiesystemen is een tweejarige praktijkgerichte opleiding (120 studiepunten) die je opleidt tot eerstelijns energiespecialist in zowel residentiële als industriële omgevingen. Je leert hernieuwbare energiebronnen zoals zon, wind, water, biomassa en aardwarmte omzetten in nuttige vormen zoals elektriciteit, warmte en biobrandstof.",
+      "features": [
+        "Tijdens de opleiding ontwikkel je vaardigheden in het installeren, afregelen en onderhouden van diverse duurzame energiesystemen: Zonnepanelen (PV), zonnecollectoren en hybride panelen, Warmtepompen en zonneboilers, Pelletkachels en biomassacentrales, Windturbines en waterkrachtinstallaties, Energieopslag met batterijsystemen",
+        "Je leert probleemoplossend denken, veilig werken (volgens AREI-normen), technische schema's interpreteren en communiceren met klanten en collega's. Via digitale tools en werkplekleren bepaal je hoe krachtig systemen moeten zijn en pas je duurzame oplossingen toe in de praktijk.",
+        "De opleiding heeft een sterke focus op duurzaamheid en innovatie. Studenten werken aan projecten zoals het verduurzamen van festivals met mobiele energie-units die CO₂-neutrale stroom leveren. Ook wordt er samengewerkt met bedrijven zoals Loxone om ervaring op te doen met slimme energiesystemen en domotica."
+      ],
+      "color": "#006400",
+      "colorName": "dark green",
+      "qr": ""
+    },
+    {
+      "id": "3",
+      "name": "Graduaat Elektromechanische Systemen",
+      "description": "Het graduaat Elektromechanische Systemen is een praktijkgerichte opleiding van twee jaar (120 studiepunten) die je voorbereidt op een technische carrière in de industrie. De opleiding biedt twee afstudeerrichtingen: Onderhoudstechnieken en Meet- en Regeltechnieken.",
+      "features": [
+        "Onderhoudstechnieken: In deze afstudeerrichting leer je industriële machines en installaties onderhouden, storingen opsporen en verhelpen en technische schema's interpreteren. Je ontwikkelt vaardigheden in het optimaliseren van onderhoudsprocedures en het samenwerken met operatoren en collega-techniekers. Deze richting leidt op tot het knelpuntberoep van onderhoudstechnicus, wat een hoge werkzekerheid biedt.",
+        "Meet- en regeltechnieken: Deze afstudeerrichting richt zich op het correct afstellen van industriële machines en installaties. Je leert storingen detecteren, registreren en verhelpen, en je optimaliseert meetprocedures en technische fiches.",
+        "Opleidingsstructuur: De opleiding combineert theorie met praktijk via werkplekleren, waarbij je in een realistische werkomgeving je vaardigheden ontwikkelt. Je krijgt een brede basis in elektriciteit, mechanica, PLC-sturingen, veiligheid, en soft skills zoals communicatie en teamwerk."
+      ],
+      "color": "FF0000",
+      "colorName": "red",
+      "qr": ""
+    },
+    {
       "id": "5",
       "name": "leerkracht secundair onderwijs",
       "description": "Deze professionele bacheloropleiding bereidt je voor op een carrière als leraar in het secundair onderwijs. Je ontwikkelt zowel inhoudelijke expertise in twee onderwijsvakken naar keuze als pedagogische en didactische vaardigheden om jongeren te inspireren en te begeleiden.",
