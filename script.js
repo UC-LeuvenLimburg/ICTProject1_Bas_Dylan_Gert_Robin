@@ -42,10 +42,32 @@ fetch("data.json")
       document.getElementById("features").appendChild(li);
     }
 
+    //extra data
+    if (studiekaart.extra) {
+      for (item of studiekaart.extra) {
+        if (typeof item == "string") {
+          p = document.createElement("p");
+          p.textContent = item;
+          document.getElementById("info").appendChild(p);
+        } else {
+          ul = document.createElement("ul");
+          for (i of item) {
+            li = document.createElement("li");
+            li.textContent = i;
+            ul.appendChild(li);
+          }
+          document.getElementById("info").appendChild(ul);
+        }
+      }
+    }
+
     //sets color of studiekaart as solution
     const span = document.getElementById("solution");
     span.style.color = studiekaart.color;
     span.textContent = studiekaart.colorName;
+    const elel = document.getElementById("antwoord");
+    elel.textContent =
+      "🎯 Antwoorden spel: je koos [x] keer voor " + studiekaart.name;
   })
   .catch((error) => console.error("Error loading JSON:", error));
 
@@ -68,7 +90,9 @@ const populateCard = (carddata) => {
   else {
     back.innerHTML = carddata.description;
     const img = document.createElement("img");
-    img.src = "https://placecats.com/g/200/100";
+    img.src = carddata.image
+      ? carddata.image
+      : "https://placecats.com/g/200/100";
     back.appendChild(img);
   }
 

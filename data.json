@@ -53,7 +53,95 @@
       "qr": ""
     },
     {
+      "id": "4",
+      "name": "Bachelor Energietechnologie",
+      "description": "De professionele bachelor in de Energietechnologie is een driejarige opleiding (180 studiepunten) die je voorbereidt op een toekomstgerichte carrière in de energiesector. Je leert innovatieve en duurzame energieoplossingen ontwerpen, installeren en beheren, met een sterke focus op praktijkervaring en technologische toepassingen.",
+      "features": [],
+      "color": "#808080",
+      "colorName": "gray",
+      "qr": "",
+      "extra": [
+        "De opleiding is opgebouwd rond drie kerngebieden:",
+        [
+          "Elektriciteit: Je ontwikkelt vaardigheden in het installeren en aansturen van elektrische motoren, transformatoren, verlichting, huisinstallaties en industriële installaties.",
+          "Energie: Je verdiept je in de opwekking van elektrische en duurzame energie (zoals zonnepanelen, warmtepompen, zonneboilers en warmte-krachtkoppeling), evenals in de distributie (smart grids, microgrids) en opslag van energie (batterijsystemen, waterstof).",
+          "Energie-efficiëntie: Je leert hoe automatisering (PLC, visualisatie, regeltechniek, vermogenelektronica) bijdraagt aan een efficiënter energiegebruik."
+        ],
+        "De opleiding legt sterke nadruk op praktische vaardigheden:",
+        [
+          "Moderne laboratoria: Je werkt in up-to-date technieklabo's die de realiteit van het werkveld weerspiegelen.",
+          "Samenwerking met bedrijven: Er is een nauwe samenwerking met hightechbedrijven, waardoor je projecten en stages kunt uitvoeren in innovatieve ondernemingen.",
+          "Internationale ervaring: De opleiding biedt mogelijkheden voor studiebezoeken in binnen- en buitenland, voordrachten door specialisten en labozittingen in gespecialiseerde bedrijven."
+        ],
+        "Na het behalen van je diploma kun je aan de slag in diverse sectoren, zoals de energie-, bouw-, en industriële sector. Daarnaast biedt UCLL mogelijkheden voor verdere studies, zoals een schakelprogramma naar een masteropleiding aan de universiteit."
+      ]
+    },
+    {
       "id": "5",
+      "name": "Bachelor Chemie",
+      "description": "De professionele bachelor in de Chemie is een driejarige opleiding (180 studiepunten) die je voorbereidt op een veelzijdige carrière in de chemische sector. De opleiding combineert theoretische kennis met praktische ervaring, met sterke aandacht voor laboratoriumwerk, procesontwikkeling en kwaliteitscontrole.",
+      "features": ["", "", ""],
+      "color": "#00FF00",
+      "colorName": "green",
+      "qr": "",
+      "extra": [
+        "In de eerste opleidingsfase leg je een brede basis in chemie, fysica, wiskunde en analytische technieken. Vanaf de tweede fase kies je een van de vier afstudeerrichtingen:",
+        [
+          "Chemie: Focus op polymeertechnologie, chemische procesontwikkeling en kwaliteitscontrole.",
+          "Biochemie: Verdieping in DNA-onderzoek, levensmiddelentechnologie en farmaceutische toepassingen.",
+          "Milieutechnologie: Specialisatie in waterbeheer, luchtkwaliteitscontrole en milieuwetgeving.",
+          "Procestechnologie: Inzicht in geautomatiseerde industriële productieprocessen en procesoptimalisatie."
+        ],
+        "De opleiding legt sterke nadruk op praktische vaardigheden:",
+        [
+          "Moderne laboratoria: Goed uitgeruste labo’s voor hands-on ervaring.",
+          "Stages en projecten: Samenwerking met bedrijven en onderzoeksinstellingen.",
+          "Internationale ervaring: Mogelijkheden voor stages en projecten in het buitenland."
+        ],
+        "Na het behalen van je diploma kun je aan de slag in diverse sectoren, zoals de chemische, farmaceutische, voedings- en milieutechnologiesector. Daarnaast biedt UCLL mogelijkheden voor verdere studies, zoals een schakelprogramma naar een masteropleiding aan de universiteit."
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Bachelor Electromechanica",
+      "description": "is fout is fout is fout is fout is fout is fout is fout is fout is fout is fout is fout is fout is fout is fout is fout is fout is fout is fout is fout is fout is fout is fout is fout is fout is fout is fout ",
+      "features": ["", "", ""],
+      "color": "#FFFF00",
+      "colorName": "yellow",
+      "qr": "",
+      "extra": [
+        "In de eerste opleidingsfase leg je een brede basis in chemie, fysica, wiskunde en analytische technieken. Vanaf de tweede fase kies je een van de vier afstudeerrichtingen:",
+        [
+          "Automatisering: Focus op PLC-sturingen, robotica en procesautomatisering.",
+          "Klimatisering: Verdieping in HVAC-systemen, energiebeheer en duurzame technieken.",
+          "Onderhoudstechnologie: Specialisatie in onderhoudsmanagement, storingsanalyse en preventief onderhoud.",
+          "Elektromechanica: Allround afstudeerrichting met nadruk op mechanica, elektriciteit, elektronica, pneumatica, hydraulica, CNC en PLC."
+        ],
+        "De opleiding legt sterke nadruk op praktische vaardigheden:",
+        ["", "", ""]
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Bachelor Electronica-ICT",
+      "description": "De professionele bachelor Elektronica-ICT is een driejarige opleiding (180 studiepunten) die je voorbereidt op een veelzijdige carrière in de wereld van technologie en innovatie. De opleiding combineert theorie en praktijk, met een sterke focus op actuele technologische ontwikkelingen en toepassingen.",
+      "features": [],
+      "color": "#FFA500",
+      "colorName": "orange",
+      "qr": "",
+      "extra": [
+        "Afhankelijk van je interesses kies je vanaf het tweede jaar een van de twee afstudeerrichtingen:",
+        [
+          "Elektronica: Je verdiept je in hardware-ontwerp, microcontrollers, draadloze communicatie en het ontwikkelen van slimme apparaten. Je leert onder andere printplaten ontwerpen, microprocessoren programmeren en nieuwe elektronische toepassingen creëren.",
+          "ICT: Je richt je op softwareontwikkeling, netwerkinfrastructuur, web- en app-ontwikkeling en het aansturen van slimme systemen. Je ontwikkelt applicaties, beheert netwerken en programmeert onder andere robots en drones."
+        ],
+        "De opleiding legt sterke nadruk op praktische vaardigheden:",
+        ["is fout is fout is fout is fout is fout "],
+        "Na het behalen van je diploma kun je aan de slag in diverse sectoren, zoals de technologie-, communicatie- en IT-sector. Daarnaast biedt UCLL mogelijkheden voor verdere studies, zoals een schakelprogramma naar een masteropleiding aan de universiteit. "
+      ]
+    },
+    {
+      "id": "8",
       "name": "leerkracht secundair onderwijs",
       "description": "Deze professionele bacheloropleiding bereidt je voor op een carrière als leraar in het secundair onderwijs. Je ontwikkelt zowel inhoudelijke expertise in twee onderwijsvakken naar keuze als pedagogische en didactische vaardigheden om jongeren te inspireren en te begeleiden.",
       "features": [
@@ -66,7 +154,7 @@
       "qr": ""
     },
     {
-      "id": "6",
+      "id": "9",
       "name": "leerkracht kleuter onderwijs",
       "description": "De opleiding is thematisch en modulair opgebouwd, waarbij elk opleidingsjaar bestaat uit verschillende modules met specifieke thema's. Deze modules integreren verschillende vakgebieden en zijn gericht op het ontwikkelen van de nodige competenties om als kleuterleraar aan de slag te gaan. De stage speelt een centrale rol in de opleiding en wordt beschouwd als de motor van het leerproces. In het eerste jaar wordt bijvoorbeeld 10 studiepunten aan stage toegekend, waarbij studenten praktijkervaring opdoen in kleuterklassen.",
       "features": [
@@ -83,23 +171,23 @@
   "stellingskaarten": [
     {
       "text": "Activerende werkvormen stimuleren het kritisch denken en probleemoplossend vermogen van leerlingen",
-      "studiekaart_id": "5"
+      "studiekaart_id": "8"
     },
     {
       "text": "Deze onderwijsvorm, vaak gebruikt in STEM-vakken, moedigt experimenteren en kritisch denken aan.",
-      "studiekaart_id": "5"
+      "studiekaart_id": "8"
     }
   ],
   "objectkaarten": [
     {
-      "image": "",
+      "image": "data:image/jpeg;base64,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",
       "description": "Smartschool",
-      "studiekaart_id": "5"
+      "studiekaart_id": "8"
     },
     {
       "image": "",
       "description": "GeoGebra",
-      "studiekaart_id": "5"
+      "studiekaart_id": "8"
     }
   ]
 }

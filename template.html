@@ -14,7 +14,7 @@
     <header>Study You</header>
 
     <div class="main-container">
-      <div class="info">
+      <div class="info" id="info">
         <h2 id="name">[Naam Studierichting]</h2>
         <p id="description">[Korte beschrijving van de richting]</p>
         <ul id="features">
@@ -25,9 +25,13 @@
       </div>
 
       <div class="score">
-        🎯 Antwoorden spel: je koos [x] keer voor [Naam Studierichting] <br />
-        🎨 Kleur van deze kaart:
-        <span id="solution" style="color: [kleurcode]">[Kleur]</span>
+        <p id="antwoord">
+          🎯 Antwoorden spel: je koos [x] keer voor [Naam Studierichting]
+        </p>
+        <p>
+          🎨 Kleur van deze kaart:
+          <span id="solution" style="color: [kleurcode]">[Kleur]</span>
+        </p>
       </div>
 
       <div class="cards-container" id="cards-container">
