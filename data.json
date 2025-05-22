@@ -9,8 +9,8 @@
         "Sterk praktijkgericht met werkplekleren: De opleiding legt de nadruk op hands-on ervaring. Via werkplekleren en stages pas je je kennis toe in realistische omgevingen, zoals domotica-installaties, industriële automatisering of smart buildings. Dit bereidt je voor op een directe instap in de arbeidsmarkt.",
         "Toegankelijk voor diverse achtergronden: Voorkennis in IT of elektronica is niet vereist. Met motivatie en inzet kun je starten, zelfs zonder technische vooropleiding. De opleiding is beschikbaar in een tweejarig dagtraject of een driejarig avondtraject, wat flexibiliteit biedt voor verschillende levenssituaties."
       ],
-      "color": "#800080",
-      "colorName": "purple",
+      "color": "#367C44",
+      "colorName": "donker groen",
       "qr": ""
     },
     {
@@ -22,8 +22,8 @@
         "Veiligheid en regelgeving: Er is veel aandacht voor veilig werken, inclusief het omgaan met gevaarlijke stoffen zoals koelmiddelen en het volgen van wettelijke normen.",
         "Installatie en onderhoud: Je leert HVAC-systemen installeren en onderhouden, inclusief het opsporen en verhelpen van storingen."
       ],
-      "color": "a52a2a",
-      "colorName": "brown",
+      "color": "#1A4F66",
+      "colorName": "donker blauw",
       "qr": ""
     },
     {
@@ -35,8 +35,8 @@
         "Je leert probleemoplossend denken, veilig werken (volgens AREI-normen), technische schema's interpreteren en communiceren met klanten en collega's. Via digitale tools en werkplekleren bepaal je hoe krachtig systemen moeten zijn en pas je duurzame oplossingen toe in de praktijk.",
         "De opleiding heeft een sterke focus op duurzaamheid en innovatie. Studenten werken aan projecten zoals het verduurzamen van festivals met mobiele energie-units die CO₂-neutrale stroom leveren. Ook wordt er samengewerkt met bedrijven zoals Loxone om ervaring op te doen met slimme energiesystemen en domotica."
       ],
-      "color": "#006400",
-      "colorName": "dark green",
+      "color": "#98693E",
+      "colorName": "bruin",
       "qr": ""
     },
     {
@@ -48,8 +48,8 @@
         "Meet- en regeltechnieken: Deze afstudeerrichting richt zich op het correct afstellen van industriële machines en installaties. Je leert storingen detecteren, registreren en verhelpen, en je optimaliseert meetprocedures en technische fiches.",
         "Opleidingsstructuur: De opleiding combineert theorie met praktijk via werkplekleren, waarbij je in een realistische werkomgeving je vaardigheden ontwikkelt. Je krijgt een brede basis in elektriciteit, mechanica, PLC-sturingen, veiligheid, en soft skills zoals communicatie en teamwerk."
       ],
-      "color": "FF0000",
-      "colorName": "red",
+      "color": "#98693E",
+      "colorName": "licht bruin",
       "qr": ""
     },
     {
@@ -57,8 +57,8 @@
       "name": "Bachelor Energietechnologie",
       "description": "De professionele bachelor in de Energietechnologie is een driejarige opleiding (180 studiepunten) die je voorbereidt op een toekomstgerichte carrière in de energiesector. Je leert innovatieve en duurzame energieoplossingen ontwerpen, installeren en beheren, met een sterke focus op praktijkervaring en technologische toepassingen.",
       "features": [],
-      "color": "#808080",
-      "colorName": "gray",
+      "color": "#9363FF",
+      "colorName": "licht paars",
       "qr": "",
       "extra": [
         "De opleiding is opgebouwd rond drie kerngebieden:",
@@ -81,8 +81,8 @@
       "name": "Bachelor Chemie",
       "description": "De professionele bachelor in de Chemie is een driejarige opleiding (180 studiepunten) die je voorbereidt op een veelzijdige carrière in de chemische sector. De opleiding combineert theoretische kennis met praktische ervaring, met sterke aandacht voor laboratoriumwerk, procesontwikkeling en kwaliteitscontrole.",
       "features": ["", "", ""],
-      "color": "#00FF00",
-      "colorName": "green",
+      "color": "#7CE79E",
+      "colorName": "licht groen",
       "qr": "",
       "extra": [
         "In de eerste opleidingsfase leg je een brede basis in chemie, fysica, wiskunde en analytische technieken. Vanaf de tweede fase kies je een van de vier afstudeerrichtingen:",
@@ -106,8 +106,8 @@
       "name": "Bachelor Electromechanica",
       "description": "is fout is fout is fout is fout is fout is fout is fout is fout is fout is fout is fout is fout is fout is fout is fout is fout is fout is fout is fout is fout is fout is fout is fout is fout is fout is fout ",
       "features": ["", "", ""],
-      "color": "#FFFF00",
-      "colorName": "yellow",
+      "color": "#7CE79E",
+      "colorName": "limoen groen",
       "qr": "",
       "extra": [
         "In de eerste opleidingsfase leg je een brede basis in chemie, fysica, wiskunde en analytische technieken. Vanaf de tweede fase kies je een van de vier afstudeerrichtingen:",
@@ -126,8 +126,8 @@
       "name": "Bachelor Electronica-ICT",
       "description": "De professionele bachelor Elektronica-ICT is een driejarige opleiding (180 studiepunten) die je voorbereidt op een veelzijdige carrière in de wereld van technologie en innovatie. De opleiding combineert theorie en praktijk, met een sterke focus op actuele technologische ontwikkelingen en toepassingen.",
       "features": [],
-      "color": "#FFA500",
-      "colorName": "orange",
+      "color": "#6FB0C8",
+      "colorName": "gletsjer blauw",
       "qr": "",
       "extra": [
         "Afhankelijk van je interesses kies je vanaf het tweede jaar een van de twee afstudeerrichtingen:",
@@ -149,8 +149,8 @@
         "Sterke focus op praktijkervaring: Vanaf het eerste jaar loop je stage, beginnend met ongeveer 10% van je tijd, oplopend tot 50% in het laatste jaar. Je observeert lessen, oefent met lesgeven en ontwikkelt je eigen lesstijl.",
         "Persoonlijke begeleiding en coaching: Je krijgt ondersteuning van lectoren en een persoonlijke studentencoach die je begeleiden bij je studiekeuzes, studievaardigheden en eventuele uitdagingen."
       ],
-      "color": "#FFD700",
-      "colorName": "gold",
+      "color": "#F3A505",
+      "colorName": "oranje",
       "qr": ""
     },
     {
@@ -163,8 +163,8 @@
         " Persoonlijke begeleiding: Studenten worden begeleid door mentoren en lectoren die ondersteuning bieden tijdens de stages en het leerproces. Dit zorgt voor een persoonlijke en professionele groei gedurende de opleiding."
       ],
 
-      "color": "#2913AF",
-      "colorName": "blue gem",
+      "color": "#7490B4",
+      "colorName": "lavendel",
       "qr": ""
     },
     {
@@ -177,8 +177,8 @@
         "Juridische en fiscale kennis: basisinzichten in burgerlijk recht, vennootschaps- en ondernemingsrecht, sociaal recht en fiscaliteit.",
         "Soft skills: zoals teamgericht en intercultureel samenwerken, kritisch denken, punctualiteit en professionele communicatie."
       ],
-      "color": "#",
-      "colorName": "",
+      "color": "#DF2F39",
+      "colorName": "rood",
       "qr": ""
     },
     {
@@ -191,8 +191,8 @@
         "Veiligheid, gezondheid, milieu en kwaliteit (VGMK): je leert risicoanalyses opstellen en veiligheidsprocedures implementeren binnen de productieomgeving.",
         "Voorraadbeheer: je ontwikkelt vaardigheden in voorraadbeheer, zoals het uitvoeren van ABC-analyses en het berekenen van herbestelpunten."
       ],
-      "color": "#4682B4",
-      "colorName": "steel blue",
+      "color": "#D53E7F",
+      "colorName": "roze",
       "qr": ""
     },
     {
@@ -204,8 +204,8 @@
         "Internationale ervaring: Je kunt deelnemen aan internationale projecten, uitwisselingsprogramma's en stages in het buitenland.",
         "Kleine groepen en persoonlijke begeleiding: Er is veel aandacht voor individuele ondersteuning en coaching."
       ],
-      "color": "#008080",
-      "colorName": "teal",
+      "color": "#E0F18F",
+      "colorName": "khaki",
       "qr": ""
     },
     {
@@ -220,8 +220,8 @@
         "Organisatieontwikkeling: change management en strategisch HR-beleid.",
         "Communicatie en samenwerking: coaching, conflicthantering en teamdynamiek."
       ],
-      "color": "#DA70D6",
-      "colorName": "orchid",
+      "color": "#FFF300",
+      "colorName": "geel",
       "qr": ""
     },
     {
@@ -234,8 +234,8 @@
         "Organisatorische competenties: je leert plannen, organiseren en coördineren van projecten en evenementen.",
         "Praktijkervaring: je past je kennis toe in realistische bedrijfscases, stages en projecten in samenwerking met externe opdrachtgevers."
       ],
-      "color": "#4169E1",
-      "colorName": "royal blue",
+      "color": "#FF7300",
+      "colorName": "bloedsinaas",
       "qr": ""
     },
     {
@@ -247,8 +247,8 @@
         "Evidence-based practice: je ontwikkelt vaardigheden om wetenschappelijke inzichten toe te passen in de praktijk.",
         "Persoonlijke begeleiding: kleinschalige groepen en individuele coaching zorgen voor een persoonlijke leerervaring."
       ],
-      "color": "#FF69B4",
-      "colorName": "hot pink",
+      "color": "#FF5AC3",
+      "colorName": "felroze",
       "qr": ""
     },
     {
@@ -261,8 +261,8 @@
         "Stages: je loopt stage in diverse settings, zoals ziekenhuizen, woonzorgcentra, thuiszorg en geestelijke gezondheidszorg, met een focus op verschillende patiëntengroepen.",
         "Contractstage: in het vierde jaar werk je 800 uur als verpleegkundige-in-opleiding, waarbij je een vergoeding ontvangt en volledige verantwoordelijkheid draagt voor patiënten. "
       ],
-      "color": "",
-      "colorName": "",
+      "color": "#034A87",
+      "colorName": "middernachtblauw",
       "qr": ""
     },
     {
@@ -274,8 +274,8 @@
         "Projectwerk: Er is veel aandacht voor projectmatig leren, waarbij je samenwerkt aan realistische casussen.",
         "Stages: In het derde jaar loop je stage in een laboratorium, waarbij je je kennis toepast in een professionele omgeving."
       ],
-      "color": "",
-      "colorName": "",
+      "color": "#D217CE",
+      "colorName": "violet",
       "qr": ""
     },
     {
@@ -288,8 +288,8 @@
         "Praktijkgericht leren: Je past de theorie direct toe in de praktijk, met een sterke focus op werkplekleren.",
         "Flexibele instroom: Instappen in de opleiding is mogelijk op verschillende momenten gedurende het academiejaar. "
       ],
-      "color": "",
-      "colorName": "",
+      "color": "#52D2B5",
+      "colorName": "blauwgroen",
       "qr": ""
     },
     {
@@ -301,8 +301,8 @@
         "Leren door te doen: Je leert vooral vanuit de praktijk. Theorie wordt meteen toegepast via opdrachten, projecten en stages in het werkveld.",
         "Flexibele instapmogelijkheden: Je kunt op meerdere momenten in het jaar starten met de opleiding, wat handig is als je pas later beslist of wil combineren met werk."
       ],
-      "color": "",
-      "colorName": "",
+      "color": "#00745A",
+      "colorName": "viridian",
       "qr": ""
     },
     {
@@ -314,8 +314,8 @@
         "Maatschappelijke betrokkenheid als basis: Je ontwikkelt een kritische blik op thema’s als ongelijkheid, uitsluiting en participatie. Je leert niet enkel uitvoeren, maar ook nadenken over hoe het beter kan.",
         "Direct aan de slag in het werkveld: Vanaf het eerste jaar loop je mee op in organisaties zoals jeugdhuizen, wijkcentra, sociale verenigingen of culturele instellingen. Zo ontdek je wat jouw rol als sociaal-cultureel werker echt betekent."
       ],
-      "color": "",
-      "colorName": "",
+      "color": "#FFCD6B",
+      "colorName": "goud",
       "qr": ""
     },
     {
@@ -327,8 +327,8 @@
         "Persoonlijke en professionele groei: Door reflectie en ervaringsleren ontwikkel je jezelf tot een veerkrachtige en doordachte professional.",
         "Flexibel studietraject (STUWER): Voor werkstudenten is er een avondtraject waarbij studeren gecombineerd kan worden met werk en/of gezin."
       ],
-      "color": "",
-      "colorName": "",
+      "color": "#956BFF",
+      "colorName": "paars",
       "qr": ""
     },
     {
@@ -340,8 +340,8 @@
         "Persoonlijke begeleiding: Je wordt ondersteund door lectoren en een persoonlijke studentencoach die je begeleiden in je studiekeuzes, studievaardigheden en eventuele uitdagingen.",
         "Ontplooiing tot wereldleraar: In het laatste jaar krijg je de kans om stages te lopen in binnen- of buitenland, waardoor je je ontwikkelt tot een leraar met een brede blik op de wereld."
       ],
-      "color": "#",
-      "colorName": "",
+      "color": "#CDA434",
+      "colorName": "licht bruin",
       "qr": ""
     },
     {
@@ -353,8 +353,8 @@
         "Praktijkgericht leren: Vanaf het begin van de opleiding sta je in de klas. Je leert door te doen, met begeleiding van ervaren mentoren, waardoor je je pedagogische vaardigheden direct in de praktijk kunt toepassen.",
         "Begeleiding op maat: Je krijgt ondersteuning van trajectcoaches die je begeleiden bij het plannen van je studie en het combineren van je professionele en academische verantwoordelijkheden."
       ],
-      "color": "#",
-      "colorName": "",
+      "color": "#9B111E",
+      "colorName": "bordeaux",
       "qr": ""
     },
     {
@@ -366,8 +366,8 @@
         "Praktijkgericht leren: Vanaf het begin van de opleiding sta je in de klas. Je leert door te doen, met begeleiding van ervaren mentoren, waardoor je je pedagogische vaardigheden direct in de praktijk kunt toepassen.",
         "Begeleiding op maat: Je krijgt ondersteuning van trajectcoaches die je begeleiden bij het plannen van je studie en het combineren van je professionele en academische verantwoordelijkheden."
       ],
-      "color": "#",
-      "colorName": "",
+      "color": "#015D52",
+      "colorName": "cyaan",
       "qr": ""
     }
   ],
