@@ -166,6 +166,60 @@
       "color": "#2913AF",
       "colorName": "blue gem",
       "qr": ""
+    },
+    {
+      "id": "10",
+      "name": "Graduaat in de accounting administration",
+      "description": "",
+      "features": ["", "", ""],
+      "color": "#",
+      "colorName": "",
+      "qr": ""
+    },
+    {
+      "id": "11",
+      "name": "Graduaat in het productiebeheer",
+      "description": "",
+      "features": [],
+      "color": "#4682B4",
+      "colorName": "steel blue",
+      "qr": ""
+    },
+    {
+      "id": "12",
+      "name": "Bachelor in het bedrijfsmanagement",
+      "description": "",
+      "features": [],
+      "color": "#008080",
+      "colorName": "teal",
+      "qr": ""
+    },
+    {
+      "id": "13",
+      "name": "Bachelor in human resources management",
+      "description": "",
+      "features": [],
+      "color": "#DA70D6",
+      "colorName": "orchid",
+      "qr": ""
+    },
+    {
+      "id": "14",
+      "name": "Bachelor in organisatie & management",
+      "description": "",
+      "features": [],
+      "color": "#4169E1",
+      "colorName": "royal blue",
+      "qr": ""
+    },
+    {
+      "id": "15",
+      "name": "Bachelor in de vroedkunde",
+      "description": "",
+      "features": [],
+      "color": "#FF69B4",
+      "colorName": "hot pink",
+      "qr": ""
     }
   ],
   "stellingskaarten": [
@@ -176,6 +230,54 @@
     {
       "text": "Deze onderwijsvorm, vaak gebruikt in STEM-vakken, moedigt experimenteren en kritisch denken aan.",
       "studiekaart_id": "8"
+    },
+    {
+      "text": "Het begrijpen van financiële processen is essentieel voor een succesvolle carrière in de bedrijfswereld.",
+      "studiekaart_id": "9"
+    },
+    {
+      "text": "Het vermogen om gedetailleerd en zorgvuldig te werken is essentieel, aangezien kleine fouten in financiële gegevens grote gevolgen kunnen hebben.",
+      "studiekaart_id": "10"
+    },
+    {
+      "text": "Efficiënt productiebeheer helpt bedrijven om kosten te verlagen en de productiviteit te verhogen.",
+      "studiekaart_id": "11"
+    },
+    {
+      "text": "Productieomgevingen kunnen snel veranderen, en studenten moeten in staat zijn om snel oplossingen te vinden voor onverwachte problemen of vertragingen.",
+      "studiekaart_id": "11"
+    },
+    {
+      "text": "Een goed begrip van bedrijfsprocessen is de sleutel tot het succes van elke organisatie.",
+      "studiekaart_id": "12"
+    },
+    {
+      "text": "Studenten moeten in staat zijn om gegevens te interpreteren en trends te herkennen om strategische beslissingen te nemen.",
+      "studiekaart_id": "12"
+    },
+    {
+      "text": "Het begrijpen van de behoeften van zowel de organisatie als de medewerkers is essentieel voor het creëren van een succesvolle werkplek.",
+      "studiekaart_id": "13"
+    },
+    {
+      "text": "Het is belangrijk om discreet en vertrouwelijk om te gaan met gevoelige informatie over medewerkers.",
+      "studiekaart_id": "13"
+    },
+    {
+      "text": "Het begrijpen van bedrijfsstrategieën en het efficiënt organiseren van processen zijn essentieel om een succesvolle bijdrage te leveren.",
+      "studiekaart_id": "14"
+    },
+    {
+      "text": "Studenten moeten sterk georganiseerd zijn om hun werk effectief te kunnen beheren.",
+      "studiekaart_id": "14"
+    },
+    {
+      "text": "Als beginnende student leer je hoe je mensen kunt ondersteunen tijdens een van de belangrijkste momenten in hun leven, met zowel zorg als kennis.",
+      "studiekaart_id": "15"
+    },
+    {
+      "text": "Geduld is cruciaal, zowel met patiënten als met het leren van nieuwe vaardigheden.",
+      "studiekaart_id": "15"
     }
   ],
   "objectkaarten": [
@@ -188,6 +290,66 @@
       "image": "",
       "description": "GeoGebra",
       "studiekaart_id": "8"
+    },
+    {
+      "image": "images/objectkaarten/fiscale_gids.png",
+      "description": "Fiscale gids",
+      "studiekaart_id": "10"
+    },
+    {
+      "image": "images/objectkaarten/excel.png",
+      "description": "Excel",
+      "studiekaart_id": "10"
+    },
+    {
+      "image": "images/objectkaarten/SAP_ERP.png",
+      "description": "SAP ERP",
+      "studiekaart_id": "11"
+    },
+    {
+      "image": "images/objectkaarten/docusign.png",
+      "description": "DocuSign",
+      "studiekaart_id": "11"
+    },
+    {
+      "image": "images/objectkaarten/odoo.png",
+      "description": "Odoo",
+      "studiekaart_id": "12"
+    },
+    {
+      "image": "images/objectkaarten/slack.png",
+      "description": "Slack",
+      "studiekaart_id": "12"
+    },
+    {
+      "image": "images/objectkaarten/workday.png",
+      "description": "Workday",
+      "studiekaart_id": "13"
+    },
+    {
+      "image": "images/objectkaarten/bambooHR.png",
+      "description": "BambooHR",
+      "studiekaart_id": "13"
+    },
+    {
+      "image": "images/objectkaarten/asana.png",
+      "description": "Asana",
+      "studiekaart_id": "14"
+    },
+    {
+      "image": "images/objectkaarten/trello.png",
+      "description": "Trello",
+      "studiekaart_id": "14"
+    },
+    {
+      "image": "images/objectkaarten/blooddrukmeter.png",
+      "description": "Bloeddrukmeter",
+      "studiekaart_id": "15"
+    },
+    {
+      "image": "images/objectkaarten/bevallingsdummy.png",
+      "description": "Bevalling dummy",
+      "studiekaart_id": "15"
     }
   ]
 }
