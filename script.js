@@ -14,6 +14,8 @@ fetch("data.json")
     //finds studiekaart with matching id
     const studiekaart = cardData.studiekaarten.find((card) => card.id === id);
 
+    document.title = "Study You - " + studiekaart.name;
+
     //finds all stellingskaarten from this studiekaart
     const stellingskaarten = cardData.stellingskaarten.filter(
       (s) => s.studiekaart_id === id
@@ -82,19 +84,31 @@ const populateCard = (carddata) => {
   const back = document.createElement("div");
   back.className = "back face";
 
-  //if card has text it is stellingskaart
-  if (carddata.text) {
-    back.innerHTML = carddata.text;
-  }
-  //otherwise it's an objectkaart, has extra image
-  else {
-    back.innerHTML = carddata.description;
-    const img = document.createElement("img");
-    img.src = carddata.image
-      ? carddata.image
-      : "https://placecats.com/g/200/100";
-    back.appendChild(img);
-  }
+  back.style.backgroundImage = "url(" + carddata.image + ")";
+
+  carddata.description
+    ? (front.style.backgroundImage =
+        "url(images/objectkaarten/Objectkaart_back.png)")
+    : (front.style.backgroundImage =
+        "url(images/stellingskaarten/Stellingskaart_back.png)");
+
+  // //if card has text it is stellingskaart
+  // if (carddata.text) {
+  //   front.style.backgroundImage =
+  //     "url(images/objectkaarten/Objectkaart_back.png)";
+  //   back.innerHTML = carddata.text;
+  // }
+  // //otherwise it's an objectkaart, has extra image
+  // else {
+  //   front.style.backgroundImage =
+  //     "url(images/stellingskaarten/Stellingskaart_back.png)";
+  //   back.innerHTML = carddata.description;
+  //   const img = document.createElement("img");
+  //   img.src = carddata.image
+  //     ? carddata.image
+  //     : "https://placecats.com/g/200/100";
+  //   back.appendChild(img);
+  // }
 
   //adds card to card-container
   card.appendChild(front);

@@ -99,7 +99,7 @@ header {
 .front {
   background-color: blue;
   color: white;
-  background-image: url(/images/study_you_card.png);
+  /* background-image: url(/images/study_you_card.png); */
   background-size: cover;
   background-position: center;
 }
@@ -107,6 +107,8 @@ header {
 .back {
   color: black;
   transform: rotateY(180deg);
+  background-size: cover;
+  background-position: center;
 }
 
 .back img {
