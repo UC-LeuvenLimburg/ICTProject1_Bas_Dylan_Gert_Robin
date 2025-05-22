@@ -330,6 +330,45 @@
       "color": "",
       "colorName": "",
       "qr": ""
+    },
+    {
+      "id": "22",
+      "name": "Bachelor leerkracht lager onderwijs",
+      "description": "De Educatieve Bachelor in het Lager Onderwijs aan Hogeschool UCLL is een praktijkgerichte opleiding van drie jaar die je opleidt tot een inspirerende en vakbekwame leerkracht. Je leert kinderen begeleiden in hun ontwikkeling en hen de wereld laten ontdekken. De opleiding combineert theorie met uitgebreide praktijkervaring en persoonlijke begeleiding.",
+      "features": [
+        "Leren in de praktijk: Vanaf het eerste semester sta je al in de klas. Je groeit geleidelijk in je rol als leerkracht door stages en praktijkgerichte opdrachten.",
+        "Persoonlijke begeleiding: Je wordt ondersteund door lectoren en een persoonlijke studentencoach die je begeleiden in je studiekeuzes, studievaardigheden en eventuele uitdagingen.",
+        "Ontplooiing tot wereldleraar: In het laatste jaar krijg je de kans om stages te lopen in binnen- of buitenland, waardoor je je ontwikkelt tot een leraar met een brede blik op de wereld."
+      ],
+      "color": "#",
+      "colorName": "",
+      "qr": ""
+    },
+    {
+      "id": "23",
+      "name": "graduaat in het Secundair Onderwijs",
+      "description": "Het Educatief Graduaat in het Secundair Onderwijs aan Hogeschool UCLL is een praktijkgerichte opleiding van twee jaar (90 studiepunten) die je opleidt tot praktijkleraar in het secundair onderwijs. Deze opleiding is bedoeld voor professionals met minstens drie jaar relevante beroepservaring die hun expertise willen inzetten in het onderwijs. De opleiding combineert pedagogische theorie met intensieve praktijkervaring, waardoor je snel en effectief wordt voorbereid op een loopbaan als leraar.",
+      "features": [
+        "Flexibel traject: De opleiding is modulair opgebouwd en wordt aangeboden in dag- en avondonderwijs op de campussen Diepenbeek en Heverlee. Dit maakt het mogelijk om de studie te combineren met werk en andere verplichtingen.",
+        "Praktijkgericht leren: Vanaf het begin van de opleiding sta je in de klas. Je leert door te doen, met begeleiding van ervaren mentoren, waardoor je je pedagogische vaardigheden direct in de praktijk kunt toepassen.",
+        "Begeleiding op maat: Je krijgt ondersteuning van trajectcoaches die je begeleiden bij het plannen van je studie en het combineren van je professionele en academische verantwoordelijkheden."
+      ],
+      "color": "#",
+      "colorName": "",
+      "qr": ""
+    },
+    {
+      "id": "24",
+      "name": "graduaat in het Secundair Onderwijs voor bachelors in de kunst",
+      "description": "Het Educatief Graduaat in het Secundair Onderwijs aan Hogeschool UCLL is een praktijkgerichte opleiding van twee jaar (90 studiepunten) die je opleidt tot praktijkleraar in het secundair onderwijs. Deze opleiding is bedoeld voor professionals met minstens drie jaar relevante beroepservaring die hun expertise willen inzetten in het onderwijs. De opleiding combineert pedagogische theorie met intensieve praktijkervaring, waardoor je snel en effectief wordt voorbereid op een loopbaan als leraar.",
+      "features": [
+        "Flexibel traject: De opleiding is modulair opgebouwd en wordt aangeboden in dag- en avondonderwijs op de campussen Diepenbeek en Heverlee. Dit maakt het mogelijk om de studie te combineren met werk en andere verplichtingen.",
+        "Praktijkgericht leren: Vanaf het begin van de opleiding sta je in de klas. Je leert door te doen, met begeleiding van ervaren mentoren, waardoor je je pedagogische vaardigheden direct in de praktijk kunt toepassen.",
+        "Begeleiding op maat: Je krijgt ondersteuning van trajectcoaches die je begeleiden bij het plannen van je studie en het combineren van je professionele en academische verantwoordelijkheden."
+      ],
+      "color": "#",
+      "colorName": "",
+      "qr": ""
     }
   ],
   "stellingskaarten": [
@@ -405,12 +444,12 @@
     },
     {
       "text": "",
-      "image": "/images/stellingskaarten/Electronica-ICT_1.png",
+      "image": "/images/stellingskaarten/Elektronica-ICT_1.png",
       "studiekaart_id": "7"
     },
     {
       "text": "",
-      "image": "/images/stellingskaarten/Electronica-ICT_2.png",
+      "image": "/images/stellingskaarten/Elektronica-ICT_2.png",
       "studiekaart_id": "7"
     },
     {
@@ -425,12 +464,12 @@
     },
     {
       "text": "",
-      "image": "/images/stellingskaarten/Kleuterspeelgoed_1.png",
+      "image": "/images/stellingskaarten/Kleuteronderwijs_1.png",
       "studiekaart_id": "9"
     },
     {
       "text": "",
-      "image": "/images/stellingskaarten/Kleuterspeelgoed_2.png",
+      "image": "/images/stellingskaarten/Kleuteronderwijs_2.png",
       "studiekaart_id": "9"
     },
     {
@@ -607,12 +646,12 @@
     },
     {
       "description": " ",
-      "image": "/images/objectkaarten/Hernieuwbare-energiesystemen_1.png",
+      "image": "/images/objectkaarten/Hernieuwbare-energie-systemen_1.png",
       "studiekaart_id": "2"
     },
     {
       "description": " ",
-      "image": "/images/objectkaarten/Hernieuwbare-energiesystemen_2.png",
+      "image": "/images/objectkaarten/Hernieuwbare-energie-systemen_2.png",
       "studiekaart_id": "2"
     },
     {
@@ -657,12 +696,12 @@
     },
     {
       "description": " ",
-      "image": "/images/objectkaarten/Electronica-ICT_1.png",
+      "image": "/images/objectkaarten/Elektronica-ICT_1.png",
       "studiekaart_id": "7"
     },
     {
       "description": " ",
-      "image": "/images/objectkaarten/Electronica-ICT_2.png",
+      "image": "/images/objectkaarten/Elektronica-ICT_2.png",
       "studiekaart_id": "7"
     },
     {

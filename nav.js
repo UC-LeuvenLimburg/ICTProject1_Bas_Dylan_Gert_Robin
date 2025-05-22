@@ -21,6 +21,9 @@ list = [
   "Graduaat in de orthopedagogische begeleiding",
   "Graduaat in het sociaal-cultureel werk",
   "Bachelor in de othopedagogie",
+  "Bachelor leerkracht lager onderwijs",
+  "graduaat in het Secundair Onderwijs",
+  "graduaat in het Secundair Onderwijs voor bachelors in de kunst",
 ];
 
 for (let i = 0; i < 25; i++) {
