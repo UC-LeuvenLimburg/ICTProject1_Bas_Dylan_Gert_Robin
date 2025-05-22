@@ -170,8 +170,13 @@
     {
       "id": "10",
       "name": "Graduaat in de accounting administration",
-      "description": "",
-      "features": ["", "", ""],
+      "description": "De opleiding Graduaat in de Accounting Administration is een praktijkgerichte tweejarige opleiding (120 studiepunten) die je voorbereidt op een carrière in de boekhouding en administratieve ondersteuning. Deze graduaatsopleiding combineert theoretische kennis met intensief werkplekleren. Een belangrijk onderdeel van de opleiding is het werkplekleren, waarbij je gedurende 40 studiepunten praktijkervaring opdoet in een bedrijf of organisatie. Dit gaat verder dan een traditionele stage; je draait echt mee op de werkvloer en past je opgedane kennis toe in reële situaties. Je leert onder andere: ",
+      "features": [
+        "Boekhoudkundige vaardigheden: zoals dubbel boekhouden, btw-aangiftes, jaarrekeningen en belastingaangiftes.", 
+        "Gebruik van boekhoudsoftware: je raakt vertrouwd met gespecialiseerde boekhoudprogramma's en Excel.", 
+        "Juridische en fiscale kennis: basisinzichten in burgerlijk recht, vennootschaps- en ondernemingsrecht, sociaal recht en fiscaliteit.",
+        "Soft skills: zoals teamgericht en intercultureel samenwerken, kritisch denken, punctualiteit en professionele communicatie."
+      ],
       "color": "#",
       "colorName": "",
       "qr": ""
@@ -179,8 +184,13 @@
     {
       "id": "11",
       "name": "Graduaat in het productiebeheer",
-      "description": "",
-      "features": [],
+      "description": "De graduaatsopleiding in het Productiebeheer aan Hogeschool is een praktijkgerichte tweejarige opleiding (120 studiepunten) die je voorbereidt op een leidinggevende rol binnen productieomgevingen. De opleiding combineert technische kennis met managementvaardigheden. Je ontwikkelt competenties in:",
+      "features": [
+        "Productieplanning en -organisatie: je leert productieprocessen analyseren en optimaliseren, en stelt productieplannen op die rekening houden met efficiëntie en duurzaamheid.",
+        "Technische basiskennis: je krijgt inzicht in elektriciteit, pneumatica en hydraulica, en leert preventief en correctief onderhoud uitvoeren.",
+        "Veiligheid, gezondheid, milieu en kwaliteit (VGMK): je leert risicoanalyses opstellen en veiligheidsprocedures implementeren binnen de productieomgeving.",
+        "Voorraadbeheer: je ontwikkelt vaardigheden in voorraadbeheer, zoals het uitvoeren van ABC-analyses en het berekenen van herbestelpunten."
+      ],
       "color": "#4682B4",
       "colorName": "steel blue",
       "qr": ""
@@ -188,8 +198,12 @@
     {
       "id": "12",
       "name": "Bachelor in het bedrijfsmanagement",
-      "description": "",
-      "features": [],
+      "description": "De Bachelor in het Bedrijfsmanagement is een praktijkgerichte opleiding van drie jaar (180 studiepunten) die je voorbereidt op een veelzijdige carrière in het bedrijfsleven. Je krijgt een brede bedrijfseconomische basis en specialiseert je vanaf het eerste jaar in een afstudeerrichting of keuzetraject die aansluit bij jouw interesses en talenten.",
+      "features": [
+        "Praktijkgericht onderwijs: Je werkt aan realistische bedrijfscases, volgt lessen van docenten met praktijkervaring en neemt deel aan bedrijfsbezoeken.",
+        "Internationale ervaring: Je kunt deelnemen aan internationale projecten, uitwisselingsprogramma's en stages in het buitenland.",
+        "Kleine groepen en persoonlijke begeleiding: Er is veel aandacht voor individuele ondersteuning en coaching."
+      ],
       "color": "#008080",
       "colorName": "teal",
       "qr": ""
@@ -197,8 +211,15 @@
     {
       "id": "13",
       "name": "Bachelor in human resources management",
-      "description": "",
-      "features": [],
+      "description": "De Bachelor in Human Resources Management (HRM) is een driejarige professionele opleiding (180 studiepunten) die je opleidt tot een veelzijdige en mensgerichte HR-professional. De opleiding legt een sterke nadruk op praktijkervaring zoals stages en projectwerk in samenwerking met bedrijven en organisaties, internationale mogelijkheden via uitwisselingsprogramma's en projecten en persoonlijke begeleiding door docenten met praktijkervaring. De opleiding is opgebouwd rond zes HR-specifieke leerlijnen die je in elke fase tegenkomt:",
+      "features": [
+        "Instroom: werving, selectie en onboarding van nieuwe medewerkers.",
+        "Doorstroom: loopbaanontwikkeling, prestatiemanagement en training.",
+        "Uitstroom: offboarding en opvolging.",
+        "HR-processen: personeelsadministratie, payroll en sociale wetgeving.",
+        "Organisatieontwikkeling: change management en strategisch HR-beleid.",
+        "Communicatie en samenwerking: coaching, conflicthantering en teamdynamiek."
+      ],
       "color": "#DA70D6",
       "colorName": "orchid",
       "qr": ""
@@ -206,8 +227,13 @@
     {
       "id": "14",
       "name": "Bachelor in organisatie & management",
-      "description": "",
-      "features": [],
+      "description": "De Bachelor in Organisatie en Management is een praktijkgerichte driejarige opleiding (180 studiepunten) die je voorbereidt op een veelzijdige carrière in communicatie, organisatie en management. Je ontwikkelt je tot een meertalige professional met sterke digitale en organisatorische vaardigheden, klaar om aan de slag te gaan in diverse sectoren. Tijdens de opleiding ontwikkel je:",
+      "features": [
+        "Taalvaardigheid: je leert effectief communiceren in het Nederlands en minstens twee andere talen (bijvoorbeeld Engels en Frans), zowel mondeling als schriftelijk.",
+        "Digitale vaardigheden: je raakt vertrouwd met diverse ICT-tools, waaronder officeprogramma's, dashboarding, beeldbewerking en AI-toepassingen.",
+        "Organisatorische competenties: je leert plannen, organiseren en coördineren van projecten en evenementen.",
+        "Praktijkervaring: je past je kennis toe in realistische bedrijfscases, stages en projecten in samenwerking met externe opdrachtgevers."
+      ],
       "color": "#4169E1",
       "colorName": "royal blue",
       "qr": ""
@@ -215,10 +241,94 @@
     {
       "id": "15",
       "name": "Bachelor in de vroedkunde",
-      "description": "",
-      "features": [],
+      "description": "De Bachelor in de Vroedkunde is een driejarige professionele opleiding (180 studiepunten) die je opleidt tot een zelfstandige en deskundige vroedvrouw. Je leert gezinnen begeleiden tijdens de zwangerschap, de bevalling en de postnatale periode, met aandacht voor zowel medische als psychosociale aspecten.",
+      "features": [
+        "Holistische benadering: je leert zorg te bieden die rekening houdt met de fysieke, emotionele, sociale en culturele behoeften van moeder en kind.",
+        "Evidence-based practice: je ontwikkelt vaardigheden om wetenschappelijke inzichten toe te passen in de praktijk.",
+        "Persoonlijke begeleiding: kleinschalige groepen en individuele coaching zorgen voor een persoonlijke leerervaring."
+      ],
       "color": "#FF69B4",
       "colorName": "hot pink",
+      "qr": ""
+    },
+    {
+      "id": "16",
+      "name": "Bachelor in de verpleegkunde",
+      "description":"De Bachelor in de Verpleegkunde is een vierjarige professionele opleiding (240 studiepunten) die je opleidt tot een veelzijdige en competente verpleegkundige, klaar om verantwoordelijkheid te nemen in diverse zorgomgevingen. De opleiding is opgebouwd rond de CanMEDS-rollen, die je voorbereiden op de diverse taken van een verpleegkundige, zoals zorgverlener, communicator, samenwerker, reflectieve professional, gezondheidsbevorderaar, organisator en professioneel. De opleiding combineert theorie en praktijk om je voor te bereiden op de complexe realiteit van de gezondheidszorg:",
+      "features": [
+        "Theoretische vakken: je verdiept je in medische en verpleegkundige kennis, communicatie, ethiek en wetgeving.",
+        "Praktijklessen: je ontwikkelt vaardigheden in simulatiecentra en oefenlokalen.",
+        "Stages: je loopt stage in diverse settings, zoals ziekenhuizen, woonzorgcentra, thuiszorg en geestelijke gezondheidszorg, met een focus op verschillende patiëntengroepen.",
+        "Contractstage: in het vierde jaar werk je 800 uur als verpleegkundige-in-opleiding, waarbij je een vergoeding ontvangt en volledige verantwoordelijkheid draagt voor patiënten. "
+      ],
+      "color": "",
+      "colorName": "",
+      "qr": ""
+    },
+    {
+      "id": "17",
+      "name": "Bachelor in de biomedische laboratoriumtechnologie",
+      "description":"De Bachelor in de Biomedische Laboratoriumtechnologie (BLT) is een praktijkgerichte opleiding van drie jaar (180 studiepunten) die je opleidt tot een deskundige laboratoriumtechnoloog. Je leert biologische en medische stalen analyseren, diagnostische tests uitvoeren en onderzoeksprojecten ondersteunen binnen diverse domeinen van de gezondheidszorg en biowetenschappen. De opleiding combineert theorie met uitgebreide praktijkervaring:",
+      "features": [
+        "Laboratoriumvaardigheden: Je werkt met moderne apparatuur en leert technieken zoals PCR, ELISA en microscopie.",
+        "Projectwerk: Er is veel aandacht voor projectmatig leren, waarbij je samenwerkt aan realistische casussen.",
+        "Stages: In het derde jaar loop je stage in een laboratorium, waarbij je je kennis toepast in een professionele omgeving."
+      ],
+      "color": "",
+      "colorName": "",
+      "qr": ""
+    },
+    {
+      "id": "18",
+      "name": "Graduaat in het maatschappelijk werk",
+      "description":"De Graduaatsopleiding Maatschappelijk Werk is een praktijkgerichte opleiding van twee jaar (120 studiepunten) die je voorbereidt op een ondersteunende rol binnen het sociale werkveld. Deze opleiding richt zich op het ontwikkelen van vaardigheden om mensen te ondersteunen bij het versterken van hun zelfredzaamheid en het verbeteren van hun levensomstandigheden. Je leert bruggen bouwen tussen individuen, groepen en de samenleving, met aandacht voor maatschappelijke evoluties en uitdagingen. De opleiding combineert theoretische kennis met praktijkervaring, waarbij je actuele inzichten uit de menswetenschappen toepast in reële werksituaties. ",
+      "features": [
+        "Maatschappelijke betrokkenheid: Je ontwikkelt een kritische blik op sociale rechtvaardigheid en mensenrechten, die als rode draad doorheen de opleiding lopen.",
+        "Persoonsgerichte aanpak: Kleinschalige klasgroepen en individuele begeleiding zorgen voor een persoonlijke leerervaring.",
+        "Praktijkgericht leren: Je past de theorie direct toe in de praktijk, met een sterke focus op werkplekleren.",
+        "Flexibele instroom: Instappen in de opleiding is mogelijk op verschillende momenten gedurende het academiejaar. "
+      ],
+      "color": "",
+      "colorName": "",
+      "qr": ""
+    },
+    {
+      "id": "19",
+      "name": "Graduaat in de orthopedagogische begeleiding",
+      "description":"De Graduaatsopleiding Orthopedagogische Begeleiding is een praktijkgerichte opleiding van twee jaar (120 studiepunten) die je voorbereidt op een ondersteunende rol als opvoeder of begeleider binnen diverse welzijnssectoren. Als orthopedagogisch begeleider bied je ondersteuning aan kinderen, jongeren en volwassenen in hun woon- en leefsituatie of bij hun dagbesteding en vrije tijd. Je wordt opgeleid tot ‘specialist van het gewone’, zodat cliënten hun dagelijkse leven zinvol kunnen invullen. De opleiding combineert theoretische kennis met praktijkervaring, waarbij je leert omgaan met diverse hulpvragen en situaties.",
+      "features": [
+        "Sterk maatschappelijk engagement: Je wordt gestimuleerd om kritisch na te denken over sociale ongelijkheid, inclusie en mensenrechten. De opleiding helpt je om bewuste keuzes te maken in je rol als begeleider.",
+        "Leren door te doen: Je leert vooral vanuit de praktijk. Theorie wordt meteen toegepast via opdrachten, projecten en stages in het werkveld.",
+        "Flexibele instapmogelijkheden: Je kunt op meerdere momenten in het jaar starten met de opleiding, wat handig is als je pas later beslist of wil combineren met werk."
+      ],
+      "color": "",
+      "colorName": "",
+      "qr": ""
+    },
+    {
+      "id": "20",
+      "name": "Graduaat in het sociaal-cultureel werk",
+      "description":"De Graduaatsopleiding Sociaal-Cultureel Werk is een praktijkgerichte opleiding van twee jaar (120 studiepunten) die je voorbereidt op een ondersteunende rol binnen het sociaal-culturele werkveld. De opleiding combineert theoretische kennis met praktijkervaring:",
+      "features": [
+        "Samenwerken met mensen en gemeenschappen: Je leert hoe je individuen en groepen sterker maakt, zodat zij actief kunnen deelnemen aan de samenleving.",
+        "Maatschappelijke betrokkenheid als basis: Je ontwikkelt een kritische blik op thema’s als ongelijkheid, uitsluiting en participatie. Je leert niet enkel uitvoeren, maar ook nadenken over hoe het beter kan.",
+        "Direct aan de slag in het werkveld: Vanaf het eerste jaar loop je mee op in organisaties zoals jeugdhuizen, wijkcentra, sociale verenigingen of culturele instellingen. Zo ontdek je wat jouw rol als sociaal-cultureel werker echt betekent."
+      ],
+      "color": "",
+      "colorName": "",
+      "qr": ""
+    },
+    {
+      "id": "21",
+      "name": "Bachelor in de othopedagogie",
+      "description":"De Professionele Bachelor in de Orthopedagogie is een praktijkgerichte opleiding van drie jaar (180 studiepunten) die je voorbereidt op een loopbaan in de welzijnssector. Je leert hoe je kinderen, jongeren en volwassenen met specifieke ondersteuningsbehoeften begeleidt en versterkt in hun dagelijkse leven. De opleiding combineert theorie en praktijk vanaf het begin. Je verdiept je in orthopedagogische kaders, leert methodisch handelen en ontwikkelt vaardigheden om cliënten te begeleiden in wonen, werken, leren en vrije tijd. Er is veel aandacht voor het opbouwen van een professionele begeleidingsrelatie en het werken in teamverband.",
+      "features": [
+        "Focus op inclusie en diversiteit: Je leert werken in diverse contexten en met verschillende doelgroepen, met aandacht voor inclusie en maatschappelijke betrokkenheid.",
+        "Persoonlijke en professionele groei: Door reflectie en ervaringsleren ontwikkel je jezelf tot een veerkrachtige en doordachte professional.",
+        "Flexibel studietraject (STUWER): Voor werkstudenten is er een avondtraject waarbij studeren gecombineerd kan worden met werk en/of gezin."
+      ],
+      "color": "",
+      "colorName": "",
       "qr": ""
     }
   ],
